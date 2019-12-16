@@ -26,6 +26,7 @@ namespace Demo_CoreCRUD.Controllers
             SqlConnection con = new SqlConnection(Constring);
             SqlCommand cmd = new SqlCommand();
             SqlDataAdapter ds = new SqlDataAdapter();
+            SqlDataReader sqlDataReader;
            
             return View();
         }
