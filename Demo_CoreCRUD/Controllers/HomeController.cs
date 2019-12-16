@@ -8,6 +8,7 @@ using Microsoft.Extensions.Logging;
 using Demo_CoreCRUD.Models;
 using Microsoft.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 
 namespace Demo_CoreCRUD.Controllers
 {
