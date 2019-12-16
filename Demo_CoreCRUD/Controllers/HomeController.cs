@@ -29,7 +29,7 @@ namespace Demo_CoreCRUD.Controllers
             SqlCommand cmd = new SqlCommand();
             SqlDataAdapter ds = new SqlDataAdapter();
             SqlDataReader sqlDataReader;
-           
+           string addnewstring= "";
             return View();
         }
 
