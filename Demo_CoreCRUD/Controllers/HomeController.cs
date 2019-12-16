@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Demo_CoreCRUD.Models;
 using Microsoft.Data.SqlClient;
+using System.Drawing;
 
 namespace Demo_CoreCRUD.Controllers
 {
